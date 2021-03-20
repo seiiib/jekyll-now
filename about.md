@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Student in Computer Science at ECE Paris a french engineering school based in Paris
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sebastien.ye@hotmail.com](mailto:sebastien.ye@hotmail.com)
